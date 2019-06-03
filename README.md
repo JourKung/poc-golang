@@ -1,2 +1,2 @@
 # poc-golang
-To demo golang app project
+To demo golang app project.
